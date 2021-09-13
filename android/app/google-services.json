@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321711690061",
+    "project_id": "fir-5eeb6",
+    "storage_bucket": "fir-5eeb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321711690061:android:c996613d30d4eddf24a704",
+        "android_client_info": {
+          "package_name": "rafasalesdev.com.meus_testes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321711690061-d3v4ur0jhrnaaedgj8duh4mv4qcluftp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-392D_dfbRa6KQTITyC9UecY5gd6JXrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321711690061-d3v4ur0jhrnaaedgj8duh4mv4qcluftp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
