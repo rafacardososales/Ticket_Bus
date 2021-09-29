@@ -1,16 +1,12 @@
-# meus_testes
+# Ticket_bus
 
-Testes de projetos
+aplicativo feito para uma proposta de compra e venda de passagens
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Esse projeto funciona da seguinte maneira.
+Este aplicativo e um 2 em 1, pois no mesmo app tem o comando do passageiro e o comando do motorista que aceitar a corrida, diferenciando as telas pelo login. No momento do login o app indentifica se a solicitação de auteticação ta partindo de um passageiro ou um motorista e o envia para sua respectiva tela.
 
-A few resources to get you started if this is your first Flutter project:
+O passageiro se cadastra, entra no app e faz sua reserva de passagem, em seguida ele vai definir data, logal de partida e de destino, etc... F eito a reserva, e criada uma requisição no firebase onde automaticamente aparece a solicitação na tela do motorista para que ele aceite ou não a passagem.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Falta configurar o mapa para que quando o motorista aceite, seja feita uma linha traçada de seu local ate o passageiro no dia e momento da viagem.
