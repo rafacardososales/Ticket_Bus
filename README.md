@@ -2,7 +2,7 @@
 
 aplicativo feito para uma proposta de compra e venda de passagens
 
-## Getting Started
+## COMO FUNCIONA?
 
 Esse projeto funciona da seguinte maneira.
 Este aplicativo e um 2 em 1, pois no mesmo app tem o comando do passageiro e o comando do motorista que aceitar a corrida, diferenciando as telas pelo login. No momento do login o app indentifica se a solicitação de auteticação ta partindo de um passageiro ou um motorista e o envia para sua respectiva tela.
